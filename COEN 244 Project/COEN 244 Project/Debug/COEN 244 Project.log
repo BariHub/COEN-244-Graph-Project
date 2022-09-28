@@ -1,0 +1,21 @@
+﻿  dGraph.cpp
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\dGraph.cpp(224,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\dGraph.cpp(230,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\dGraph.cpp(238,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\dGraph.cpp(246,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\dGraph.cpp(247,21): warning C4018: '<': signed/unsigned mismatch
+  Edge.cpp
+  Node.cpp
+  Source.cpp
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\Source.cpp(59,8): warning C4101: 'ed': unreferenced local variable
+  uGraph.cpp
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(222,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(228,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(236,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(247,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(253,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(261,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(269,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheFa\source\repos\COEN 244 Project\COEN 244 Project\uGraph.cpp(270,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  COEN 244 Project.vcxproj -> C:\Users\TheFa\source\repos\COEN 244 Project\Debug\COEN 244 Project.exe
